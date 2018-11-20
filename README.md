@@ -11,14 +11,6 @@ Design Process
 Format: FCAPS
 * Include Rational for all the steps
 
-Issues are used to track todos, bugs, feature requests, and more
-
-Issues=> TODO in the KABAN BOARD 
-
-Pull Request=> Asking someone to check your version with theirs 
-
-
- 
 
 # 2nd Deliverable-Design Process
 ----
