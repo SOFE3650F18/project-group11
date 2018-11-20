@@ -21,9 +21,11 @@ Pull Request=> Asking someone to check your version with theirs
  
 
 # 2nd Deliverable-Design Process
+----
 ## 3 Step Iterative Process 
 
-### ==1st Iteraion== 
+### 1st Iteraion
+---- 
 
 #### Step1: Review Inputs 
 
@@ -38,7 +40,8 @@ Goal|Defining the structure of the System |
 #### Step7: Perform analysis of current design and review iteration goal and design objectives 
 
 
-### ==2nd Iteration==
+### 2nd Iteration
+----
 
 #### Step2: Establish iteration goal by selecting drivers
 Goal|Defining the components of the architecture to achieve the functional requirements of the system|
@@ -50,7 +53,8 @@ Goal|Defining the components of the architecture to achieve the functional requi
 #### Step6: Sketch views and record design decisions
 #### Step7: Perform analysis of current design and review iteration goal and design objectives 
 
-### ==3rd Iteration== 
+### 3rd Iteration
+---- 
 
 
 #### Step2: Establish iteration goal by selecting drivers
@@ -62,6 +66,5 @@ Goal|Refactoring the architecture to achieve the quality requirements of the sys
 #### Step5: Instantiate architecural elements, allocate responsiblites and define interfaces
 #### Step6: Sketch views and record design decisions
 #### Step7: Perform analysis of current design and review iteration goal and design objectives 
-
 
 
