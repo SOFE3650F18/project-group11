@@ -1,11 +1,11 @@
 # 1st Deliverable
 
--[ ] Design objective
--[x] Capture Use Cases
--[x] Quality Attributes 
--[ ] Scenarios 
--[x] Constrain Requirements 
--[ ] Concerns
+- [ ] Design objective
+- [x] Capture Use Cases
+- [x] Quality Attributes 
+- [ ] Scenarios 
+- [x] Constrain Requirements 
+- [ ] Concerns
 
 Design Process
 Format: FCAPS
