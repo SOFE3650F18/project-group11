@@ -1,7 +1,7 @@
 # Design Objective 
 General Requirements| Functional Requirements| Non-Functional Requirements
--|-
-* Please check the attached document Requirements_Document_for_CMS.pdf for detailed list of functional, non-functional and general requirements
+-|-|-
+* Please check the attached document [Requirements_Document_for_CMS.pdf](../projectFiles/Requirements_Document_for_CMS.pdf) for detailed list of functional, non-functional and general requirements
 # Use Cases
 
 ![](images/useCase.jpg)|
@@ -29,5 +29,22 @@ CON-3| A relational database server must be user to store course related informa
 CON-4| Student records should be stored indefinitely.|
 
 # Concerns 
+## General Concerns
+* System Structure(i.e Technologies and existing frameworks)
+* Deployment
+* Updating the Database
+## Specific Concerns
+* Exceptional Handling 
+* Authentication
+* Authorization and Administration privileges
+* Session Management
+## Internal Requirements
+* Storing messages in the database 
+* Team collaboration
+* Uploading large data files 
+## Issues
+* Risk involving modification or expansion of database storage 
+* Dealing with multiple users simultaneously 
+* Database failure 
 
 
