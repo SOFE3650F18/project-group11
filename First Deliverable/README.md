@@ -1,7 +1,7 @@
 # Design Objective 
-Functional Requirements|
---
-Non-Functional Requirements|
+General Requirements| Functional Requirements| Non-Functional Requirements
+-|-
+* Please check the attached document Requirements_Document_for_CMS.pdf for detailed list of functional, non-functional and general requirements
 # Use Cases
 
 ![](images/useCase.jpg)|
@@ -16,6 +16,9 @@ QA-4| Performance | UC-11, UC-12|
 QA-5| Performance | UC-5, UC-10, UC-11, UC-12|
 QA-6| Security | All
 # Scenarios
+
+![](images/nonRequirements.png)
+
 
 # Constrain Requirements
 ID| Constraint|
