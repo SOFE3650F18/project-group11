@@ -9,13 +9,23 @@ General Requirements| Functional Requirements| Non-Functional Requirements
 # Quality Attributes
 ID | Quality Attribute| Associated Use Case|
 -|-|-
-QA-1| Performance | UC-10|
-QA-2| Modifiability | UC-2, UC-6|
-QA-3| Availability | UC-10, UC-11|
-QA-4| Performance | UC-11, UC-12|
-QA-5| Performance | UC-5, UC-10, UC-11, UC-12|
-QA-6| Security | All
+QA-1| Performance      | UC-10, UC-1, UC-4, UC-3|  
+QA-2| Modifiability    | UC-2, UC-6       |
+QA-3| Availability     | UC-10, UC-11     |
+QA-4| Performance      | UC-11, UC-12     |
+QA-5| Performance      | UC-5, UC-10, UC-11, UC-12|
+QA-6| Security         | UC 9, UC-10      |
+QA-7| Extensibility    | UC 6, UC-7, UC-2 |
+QA-8| Interoperability | UC-12
+QA-9| Functionality    | All
+QA-10|Scalability      |  
+QA-11|Flexibility      | UC-6 
+QA-12|Reliability      | 
+QA-13|Privacy          | UC 9
 # Scenarios
+
+Quality Attribute|
+
 
 ![](images/nonRequirements.png)
 
