@@ -58,7 +58,7 @@ Layered Architecture|<li> Layers help to differentiate between the different kin
 #### Step5: Instantiate architectural elements, allocate responsibilities and define interfaces
 * Interfaces are not defined in the first iteration
 
-#####Client Side
+##### Client Side
 Element| Responsibility | Properties
 -|-|-
 User Work Station|Incorporates client side components and connects with the application server|OS = Windows, Linux, Mac, Runs on Java|
@@ -71,7 +71,7 @@ Business Components| After the UI processor collect the required data from the u
 Business Entities| Business entities encapsulate the business logic and data necessary to represent real world elements|business objects|
 Communication Components|Responsible for interaction with the application server|internet connection|
 
-#####Server Side
+##### Server Side
 
 Element| Responsibility | Properties
 -|-|-
@@ -92,8 +92,8 @@ DATA|responsible for Physical storage of the data at very low level||
 
 
 #### Step7: Perform analysis of current design and review iteration goal and design objectives 
-Quality Attributes|Constrains|
--|-
+Quality Attributes|Constrains|UC|
+-|-|-
 
 
 ### 2nd Iteration
