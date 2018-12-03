@@ -65,9 +65,7 @@ Pub-Sub Pattern|<li> In congruence with course messaging system [CON-7] [UC-6,11
 Layered Architecture|<li> Layers help to differentiate between the different kinds of tasks performed by the components, making it easier to create a design that supports *reusability* of components <li> Dividing an application into separate layers that have distinct roles and functionalities helps you to maximize *maintainability* of the code, optimize[CON-5] the way that the application works when deployed. This will also allow authentication [CON-3] [CRN-2,3] and retrival of data based on user priviliges [QA-1,11,13] [UC-7,9].
 
 #### Step5: Instantiate architectural elements, allocate responsibilities and define interfaces
-* Interfaces are not defined in the first iteration
-![](images/firstItr.png)
-![](images/generalArchitecture.png)
+
 ##### Client Side
 Element| Responsibility | Properties
 -|-|-
@@ -96,7 +94,8 @@ DB Access Component| Database engine(DBMS) that allows Retrieval, modification a
 DATA|responsible for Physical storage of the data at very low level||
 
 #### Step6: Sketch views and record design decisions
-
+![](images/firstItr.png)
+![](images/generalArchitecture.png)
 
 #### Step7: Perform analysis of current design and review iteration goal and design objectives
 
