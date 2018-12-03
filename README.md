@@ -1,7 +1,7 @@
 # Software Design and Architectures
-Prepared by: Dr. Ramiro Liscano <br>
-Date: November 2018 <br>
-Course code: SOFE 3650-Fall 2018
+**Prepared by:** Dr. Ramiro Liscano <br>
+**Date:** November 2018 <br>
+**Course code:** SOFE 3650-Fall 2018
 
 
 ## Group members
