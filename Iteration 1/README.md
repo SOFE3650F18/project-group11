@@ -24,7 +24,7 @@ QA-12| Privacy |
 All CON, CNR |
 
 #### Step3: Choose one of more elements of the system to decompose
-* Since this is a greenfield system, the only element to decompose is the entire CMS sytem.
+Since this is a greenfield system, the only element to decompose is the entire Course Management System (CMS) itself.
 
 #### Step4: Choose one or more design concepts that satisfy the selected driver
 ##### Architectural / Design Patterns
