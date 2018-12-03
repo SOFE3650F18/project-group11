@@ -1,4 +1,4 @@
-### 1st Iteration
+# Iteration 1
 ----
 
 #### Step1: Review Inputs
@@ -58,16 +58,16 @@ Choice
 
 Design Decision| Rational|
 -|-
-Service Application|<li> The services layer effectively provides an alternative view that allows clients to use a different channel to access the application  [UC-20,21,23] <li> users can access the application through the presentation layer, which communicates directly with the components in the business layer. Meanwhile, external clients and other systems can access the application and make use of its functionality by communicating with the business layer through service interfaces.[QA-8] [UC-4,13,14,10,11,15,16] [CON-6] This allows the application to better support multiple client types, and promotes re-use and higher level composition of functionality across applications. **[CON-7,8,9] [QA-3,4,7]** [UC-4,19,23,12,9]  [CRN-7,10]
-Rich Internet Application|<li> The CMS needs to be accessible from a web browser to allow for high availabilty and accessibility [QA-3,15]. This reference architecture provides the development of applications with a rich user interface that runs inside the web browser. It is highly graphical and supports rich media and presentation features which will allow dynamic and static search for courses as well as getting in user inputs [UC-1,2,3,5,8]**[CON-5]**  <li> RIA would also provide highly modifiable and flexible interface on the client side to take care of accessiblity needs and notification view modification. [QA-10,2,15] [UC-14] <li> RIA would also allow for state and exception management within client interface resulting [CRN-1,4]
-Pub-Sub Pattern|<li> In congruence with course messaging system **[CON-7]** [UC-6,11,22]
-3-Tire|<li> Implementations move presentation logic to the client. resulting in performance optimization **[CON-4]** <li> Some type of replication is needed on both web/app tier and the database tier to support [QA-3]. <li> Web/App tier would also perform authentication and password reset functionality. [UC-7]. [QA-5,12,13] [CRN-6]
-Layered Architecture|<li> Layers help to differentiate between the different kinds of tasks performed by the components, making it easier to create a design that supports *reusability* of components **[ ]** <li> Dividing an application into separate layers that have distinct roles and functionalities helps you to maximize *maintainability* of the code, optimize[CON-5] the way that the application works when deployed. This will also allow authentication [CON-3] [CRN-2,3] and retrival of data based on user priviliges **[QA-1,11,13]** ** ** ** [UC-7,9].
+Service Application|<li> The services layer effectively provides an alternative view that allows clients to use a different channel to access the application  [UC-20,21,23] <li> users can access the application through the presentation layer, which communicates directly with the components in the business layer. Meanwhile, external clients and other systems can access the application and make use of its functionality by communicating with the business layer through service interfaces.[QA-8] [UC-4,13,14,10,11,15,16] [CON-6] This allows the application to better support multiple client types, and promotes re-use and higher level composition of functionality across applications. [CON-7,8,9] [QA-3,4,7] [UC-4,19,23,12,9]  [CRN-7,10]
+Rich Internet Application|<li> The CMS needs to be accessible from a web browser to allow for high availabilty and accessibility [QA-3,15]. This reference architecture provides the development of applications with a rich user interface that runs inside the web browser. It is highly graphical and supports rich media and presentation features which will allow dynamic and static search for courses as well as getting in user inputs [UC-1,2,3,5,8][CON-5]  <li> RIA would also provide highly modifiable and flexible interface on the client side to take care of accessiblity needs and notification view modification. [QA-10,2,15] [UC-14] <li> RIA would also allow for state and exception management within client interface resulting [CRN-1,4]
+Pub-Sub Pattern|<li> In congruence with course messaging system [CON-7] [UC-6,11,22]
+3-Tire|<li> Implementations move presentation logic to the client. resulting in performance optimization [CON-4] <li> Some type of replication is needed on both web/app tier and the database tier to support [QA-3]. <li> Web/App tier would also perform authentication and password reset functionality. [UC-7]. [QA-5,12,13] [CRN-6]
+Layered Architecture|<li> Layers help to differentiate between the different kinds of tasks performed by the components, making it easier to create a design that supports *reusability* of components <li> Dividing an application into separate layers that have distinct roles and functionalities helps you to maximize *maintainability* of the code, optimize[CON-5] the way that the application works when deployed. This will also allow authentication [CON-3] [CRN-2,3] and retrival of data based on user priviliges [QA-1,11,13] [UC-7,9].
 
 #### Step5: Instantiate architectural elements, allocate responsibilities and define interfaces
 * Interfaces are not defined in the first iteration
 ![](images/firstItr.png)
-![](images/InitialDeployment.png)
+![](images/generalArchitecture.png)
 ##### Client Side
 Element| Responsibility | Properties
 -|-|-

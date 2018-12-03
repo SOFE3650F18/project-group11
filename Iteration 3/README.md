@@ -1,11 +1,14 @@
+# Iteration 3
+
 #### Step2: Establish iteration goal by selecting drivers
 Goal|Refactoring the architecture to achieve the quality requirements of the system|
 --|--
 
-Address Quality Attributes, Use Case, Concerns and Constrains not satisfied in previous iteration|
+### Address Quality Attributes, Use Case, Concerns and Constrains not satisfied in previous iteration
 ---
-A failure occurs in the course management system during operation. The system deals with the crash within 4 hours.|
-Messaging System|
+A failure occurs in the course management system during operation. The system deals with the crash within 4 hours.
+<br>
+Messaging System
 
 #### Step3: Choose one of more elements of the system to decompose
 * Application Server
@@ -27,7 +30,7 @@ Element|Responsibility |
 -|-
 Push Connector|Distribute messages to your client app in any of three ways to single devices, to groups of devices, or to devices subscribed to topics.|
 
-![](images/finalDeployment.png)
+![](images/specificArchitecture.png)
 
 Element|Responsibility|
 -|-

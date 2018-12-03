@@ -1,13 +1,15 @@
+# Iteration 2
+
 #### Step2: Establish iteration goal by selecting drivers
 Goal|Defining the components of the architecture to achieve the functional requirements of the system|
 --|--
 
-Drivers|
+Drivers
 ---
-Use Cases |
-Quality Attributes |
-Constrains |
-Concerns |
+Use Cases,
+Quality Attributes,
+Constrains,
+Concerns,
 
 Note: Since use cases and quality attributes address primary functionality of our systems. Drivers are partially addressed and not addressed instances of uses cases and quality attributes from pervious iteration
 
@@ -46,8 +48,6 @@ Server Configuration Controller|Holds the information to connect to DBMS
 Data Mapper|Responsible for persistence operations(CRUD) related to the user
 DBMS| Connects to the database
 Push Connector| Responsible messaging and notification
-
-#==Interface==
 
 #### Step6: Sketch views and record design decisions
 
