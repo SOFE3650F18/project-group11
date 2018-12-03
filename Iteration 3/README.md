@@ -23,20 +23,21 @@ USE AWS Server|Easy to administer **[QA-14]**, Highly Scalable **[QA-9][CRN-9][C
 USE Google Cloud Messaging to engage user|Allows application developers to send notification data or information from Client-Side servers|
 
 #### Step5: Instantiate architectural elements, allocate responsibilities and define interfaces
-![](images/second.jpg)
 
+![](images/second.jpg)
 Element|Responsibility |
 -|-
 Push Connector|Distribute messages to your client app in any of three ways to single devices, to groups of devices, or to devices subscribed to topics.|
 
 ![](images/specificArchitecture.png)
-
 Element|Responsibility|
 -|-
 Node/Express Sever|Allows for communication with cloud server for messaging and push notification as well as data transfer to client side|
 AWS Database Server| Allows for database maintenance and communication with the low level data|
 
 #### Step6: Sketch views and record design decisions
+
+
 
 #### Step7: Perform analysis of current design and review iteration goal and design objectives
 ![](images/thirdItr.png)

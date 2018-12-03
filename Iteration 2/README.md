@@ -28,7 +28,7 @@ Design Decision| Rational
 Decompose the domain objects across the layers to identify layer-specific modules with an explicit interface | This allows to make us modules that are independent in there functionalities. Since the actors on the scene have different roles and may require different privileges we can implement independent functionalities as per user request.  **[CRN-10]**
 Connect UI-components associated with modules using REACT library Material-UI| This library allows us to build user friendly components that are easy to implement as individual views **[QA-4]**
 
-![](images/second1.jpg)
+
 
 Element| Responsibility|
 -|-
@@ -50,6 +50,7 @@ DBMS| Connects to the database
 Push Connector| Responsible messaging and notification
 
 #### Step6: Sketch views and record design decisions
+![](images/second1.jpg)
 
 #### Step7: Perform analysis of current design and review iteration goal and design objectives
 ![](images/SecondIT.png)
