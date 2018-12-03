@@ -25,7 +25,6 @@ USE Google Cloud Messaging to engage user|Allows application developers to send 
 #### Step5: Instantiate architectural elements, allocate responsibilities and define interfaces
 ![](images/second.jpg)
 
-
 Element|Responsibility |
 -|-
 Push Connector|Distribute messages to your client app in any of three ways to single devices, to groups of devices, or to devices subscribed to topics.|
