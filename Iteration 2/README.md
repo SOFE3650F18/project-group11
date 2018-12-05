@@ -1,4 +1,4 @@
-# Iteration 2
+﻿# Iteration 2
 
 #### Step2: Establish iteration goal by selecting drivers
 Goal|Defining the components of the architecture to achieve the functional requirements of the system|
@@ -51,6 +51,8 @@ Push Connector| Responsible messaging and notification
 
 #### Step6: Sketch views and record design decisions
 ![](images/second1.jpg)
+
+![](images/sequenced.png)
 
 #### Step7: Perform analysis of current design and review iteration goal and design objectives
 ![](images/SecondIT.png)
