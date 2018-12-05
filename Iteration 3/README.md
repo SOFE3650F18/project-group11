@@ -1,4 +1,4 @@
-# Iteration 3
+﻿# Iteration 3
 
 #### Step2: Establish iteration goal by selecting drivers
 Goal|Refactoring the architecture to achieve the quality requirements of the system|
@@ -39,4 +39,4 @@ AWS Database Server| Allows for database maintenance and communication with the 
 ![](images/specificArchitecture.png)
 
 #### Step7: Perform analysis of current design and review iteration goal and design objectives
-![](images/thirdItr.png)
+![](images/kanban.png)
