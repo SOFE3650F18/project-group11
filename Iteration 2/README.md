@@ -52,7 +52,7 @@ Push Connector| Responsible messaging and notification
 #### Step6: Sketch views and record design decisions
 ![](images/second1.jpg)
 
-UC-4 Search Courses
+UC-4 Search Courses<br/>
 The diagram below is an initial sequence diagram for UC-4 (Search courses). The interaction starts with a student launching the program from the student view, and searching for courses. The request of the searched courses is sent from the client to the server. The Server Configuration controller first sets up a connection with the DBMS. If a connection is successfully established,the Data Collection Controller queries the DBMS, and returns the result to the client. However, if a connection is not established successfully, then an error is returned to the client.
 
 ![](images/sequenced.png)
