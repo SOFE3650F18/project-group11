@@ -7,7 +7,7 @@
 ## Group members
 Mohamed Ibrahim 100626201 <br>
 Sachin Teckchandani 100620287 <br>
-Mohtasim Siddiqi 100635463 <br>
+Mohtasim Siddiqui 100635463 <br>
 
 
 ## Deliverables
