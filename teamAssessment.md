@@ -1,10 +1,8 @@
 ﻿## Team Assessment
 
-<<<<<<< HEAD
-### Team Member: Mohtasim Siddiqui->Mohammed, Sachin Teckchandani
-=======
+
 ### Team Member: Mohtasim Siddiqui->Mohamed, Sachin
->>>>>>> 48c8a7c2f7b7390a40b2d76c49a7017500c159f1
+
 Competencies|mohammed |sachin|
 -|-|-
 Team's Commitment:|**5** <br> dedicated to good work <br> |**5** <br> dedicated to good work  |
