@@ -21,7 +21,7 @@ CMS design stage that is part of the deliverables of the project.
 * [Iteration 1](https://github.com/SOFE3650F18/project-group11/tree/master/Iteration%201)
 * [Iteration 2](https://github.com/SOFE3650F18/project-group11/tree/master/Iteration%202)
 * [Iteration 3](https://github.com/SOFE3650F18/project-group11/tree/master/Iteration%203)
-
+* [Team assessment](https://github.com/SOFE3650F18/project-group11/tree/master/TeamAssessment.md)
 ## Team Review 
 
 ### Team Member: Mohtasim Siddiqui->Mohammed, Sachin
