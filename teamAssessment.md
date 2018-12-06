@@ -10,9 +10,19 @@ Team's Ethical Standards: |**5** <br> Didn't do anything unethical |**5** <br> D
 Teams Focus:| **5** <br> knew what was going on and closed several issues| **5** <br> knew what was going on and closed several issues |
 
 
+### Team Member: Mohamed->Mohtasim, Sachin
+Competencies|mohtasim |sachin|
+-|-|-
+Team's Commitment:|**5** committed to project work and quality <br> |**5** <br> committed to project work and quality  |
+Team's Communication:|**5** <br> engaged in communication throughout project |5 <br> engaged in communication throughout project |
+Team's Knowledge, Skills and Abilities to perform the project:|**5** Showed thorough knowledge and expertise in subject |**5** showed thorough knowledge and expertise in subject |
+Team's Ethical Standards: |**5** <br> Didn't do anything unethical  |**5** <br> Didn't do anything unethical|
+Teams Focus:| **5** <br> Focused clearly on project requirements and delivered effectively | **5** <br>Focused clearly on project requirements and delivered effectively |
+
+
 ### Contributions
 
-Mohtasin Siddiqi:
+Mohtasim Siddiqui:
 
 Mohamed Ibrahim: 
 * Use case description
