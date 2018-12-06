@@ -29,6 +29,7 @@ Mohamed Ibrahim:
 * Input review
 * Deployment diagrams
 * Selecting drivers
+* Project structure and cover page
 * Rich Internet Architecture components
 
 Sachin Teckchandani:
