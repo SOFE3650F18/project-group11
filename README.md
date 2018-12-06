@@ -21,17 +21,7 @@ CMS design stage that is part of the deliverables of the project.
 * [Iteration 1](https://github.com/SOFE3650F18/project-group11/tree/master/Iteration%201)
 * [Iteration 2](https://github.com/SOFE3650F18/project-group11/tree/master/Iteration%202)
 * [Iteration 3](https://github.com/SOFE3650F18/project-group11/tree/master/Iteration%203)
-* [Team assessment](https://github.com/SOFE3650F18/project-group11/tree/master/TeamAssessment.md)
-## Team Review 
-
-### Team Member: Mohtasim Siddiqui->Mohammed, Sachin
-Competencies|mohammed |sachin|
--|-|-
-Team's Commitment:|**5** dedicated to good work <br> |**5** <br> dedicated to good work  |
-Team's Communication:|**5** <br> suggested improvements and collaborated well |5 <br> Collaborated well finished assigned task |
-Team's Knowledge, Skills and Abilities to perform the project:|**5** Showed through knowledge of the subject |**5** demostrated skills and abilities by finishing the assigned task|
-Team's Ethical Standards: |**5** <br> Didn't do anything unethical |**5** <br> Didn't do anything unethical |
-Teams Focus:| **5** <br> knew what was going on and closed several issues| **5** <br> knew what was going on and closed several issues |
+* [Team assessment](https://github.com/SOFE3650F18/project-group11/blob/master/teamAssessment.md)
 
 
 ## Grading Scheme
