@@ -1,6 +1,6 @@
 ﻿## Team Assessment
 
-### Team Member: Mohtasim Siddiqui->Mohammed, Sachin
+### Team Member: Mohtasim Siddiqui->Mohammed, Sachin Teckchandani
 Competencies|mohammed |sachin|
 -|-|-
 Team's Commitment:|**5** <br> dedicated to good work <br> |**5** <br> dedicated to good work  |
@@ -42,6 +42,7 @@ Mohamed Ibrahim:
 
 Sachin Teckchandani:
 
-* Made sketches for the interfaces 
-* Wrote descriptions for the sketches of the interfaces
+* Made sketches for the interfaces in iterations 1,2,3
+* Wrote descriptions for the sketches of the interfaces in iterations 1,2,3
 * Made updates to diagrams in iterations
+
