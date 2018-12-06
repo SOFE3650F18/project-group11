@@ -47,9 +47,7 @@ Mohtasim Siddiqui:
     * Component Level Diagram 
     * Review
 
-
-
-Mohamed Ibrahim: 
+Mohamed Ibrahim:
 * Use case descriptions
 * Input review
 * Deployment diagrams
@@ -58,7 +56,6 @@ Mohamed Ibrahim:
 * Rich Internet Application components
 
 Sachin Teckchandani:
-
 * Made sketches for the interfaces in iterations 1,2,3
 * Wrote descriptions for the sketches of the interfaces in iterations 1,2,3
 * Made updates to diagrams in iterations
