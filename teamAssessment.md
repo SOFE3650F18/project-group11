@@ -25,9 +25,10 @@ Teams Focus:| **5** <br> Focused clearly on project requirements and delivered e
 Mohtasim Siddiqui:
 
 Mohamed Ibrahim: 
-* Use case description
+* Use case descriptions
 * Input review
 * Deployment diagrams
+* Selecting drivers
 * Rich Internet Architecture components
 
 Sachin Teckchandani:
