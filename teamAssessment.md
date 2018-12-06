@@ -26,7 +26,7 @@ Mohtasim Siddiqui:
 
 Mohamed Ibrahim: 
 * Use case description
-* Input review for
+* Input review
 * Deployment diagrams
 * Rich Internet Architecture components
 
