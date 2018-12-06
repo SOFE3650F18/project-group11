@@ -55,7 +55,7 @@ Mohamed Ibrahim:
 * Deployment diagrams
 * Selecting drivers
 * Project structure and cover page
-* Rich Internet Architecture components
+* Rich Internet Application components
 
 Sachin Teckchandani:
 
